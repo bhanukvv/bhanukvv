@@ -15,7 +15,6 @@
 - 📫 How to reach me **bhanukav10@gmail.com**
 
 - ⚡ Fun fact **I have a knack for multitasking-balancing studies, freelance work and creative projects all at once**
-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
