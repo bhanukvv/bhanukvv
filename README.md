@@ -10,12 +10,12 @@
 - 📫 How to reach me **bhanukav10@gmail.com**
 
 - ⚡ Fun fact **I have a knack for multitasking balancing studies, freelance work and creative projects all at once**
---
+##
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhanuka viduranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanuka viduranga" height="30" width="40" /></a>
 </p>
---
+##
 
 
 <h3 align="left">Languages and Tools:</h3>
