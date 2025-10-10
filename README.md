@@ -9,7 +9,7 @@
 
 <!-- Coding GIF -->
 <p align="center">
-  <img alt="Coding" width="500" src="https://lottie.host/27724233-f002-48c0-acec-9b871d061f19/aJCLCjRRK3.lottie" />
+  <img alt="Coding" width="500" src="https://github.com/bhanukvv/bhanukvv/blob/1a58b78db089a100dfc034f8977e5f5e41bc89ab/Coding%20.gif" />
 </p>
 
 ---
