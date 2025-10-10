@@ -1,18 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhanuka Viduranga</h1>
 
-<!-- Typewriter effect -->
+<!-- Typing animation line -->
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=A+passionate+Full+Stack+Developer+from+Sri+Lanka;Constantly+improving+through+self-learning+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=I+am+a+skilled+Full+Stack+Developer+from+Sri+Lanka+and+continuously+learning." alt="Typing SVG" />
   </a>
 </h3>
-
-<!-- Coding GIF -->
-<p align="center">
-  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
-
----
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bhanukvv&label=Profile%20views&color=0e75b6&style=flat" alt="bhanukvv" /> 
