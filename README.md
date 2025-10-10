@@ -9,7 +9,7 @@
 
 <!-- Coding GIF -->
 <p align="center">
-  <img align="center" alt="Coding" width="500" src="https://i.pinimg.com/originals/e4/26/7a/e4267a68c8a5b3e4f27f11c7e4d4d2f7.gif">
+  <img align="center" alt="Coding" width="500" src="https://lottiefiles.com/free-animation/developer-AUNc4qDJk8">
 </p>
 
 ---
