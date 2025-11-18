@@ -67,5 +67,5 @@
 </p>
 <br>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanukvv" alt="bhanukvv" />
+  <img src="https://streak-stats.demolab.com?user=bhanukvv&theme=tokyonight" alt="bhanukvv" />
 </p>
