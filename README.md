@@ -24,7 +24,7 @@
 📫 How to reach me: **bhanukav10@gmail.com**  
 ⚡ Fun fact: I have a knack for multitasking — balancing studies, freelance work, and creative projects all at once  
 
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,13 +33,7 @@
   </a>
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bhanukvv" alt="bhanukvv" />
-  </a> 
-</p>
-
-
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -69,5 +63,12 @@
 </p>
 <br>
 <p>
-  <img src="https://streak-stats.demolab.com?user=bhanukvv&theme=tokyonight" alt="bhanukvv" />
+  <img src="https://streak-stats.demolab.com?user=bhanukvv&theme=default" alt="bhanukvv" />
 </p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bhanukvv" alt="bhanukvv" />
+  </a> 
+</p>
+
