@@ -22,7 +22,7 @@
 🔭 I’m currently working on improving my skills while learning and developing various projects  
 🌱 I’m currently learning AI engineering, database systems, and other exciting technologies  
 📫 How to reach me: **bhanukav10@gmail.com**  
-⚡ Fun fact: I have a knack for multitasking — balancing studies, freelance work, and creative projects all at once  
+⚡ Fun fact: I have a knack for multitasking  balancing studies, freelance work, and creative projects all at once  
 
 
 
