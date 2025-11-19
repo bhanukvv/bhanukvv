@@ -18,11 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=bhanukvv&label=Profile%20views&color=0e75b6&style=flat" alt="bhanukvv" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bhanukvv" alt="bhanukvv" />
-  </a> 
-</p>
 
 🔭 I’m currently working on improving my skills while learning and developing various projects  
 🌱 I’m currently learning AI engineering, database systems, and other exciting technologies  
@@ -37,6 +32,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanuka viduranga" height="30" width="40" />
   </a>
 </p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bhanukvv" alt="bhanukvv" />
+  </a> 
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
