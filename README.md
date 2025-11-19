@@ -65,7 +65,7 @@
 <p>
   <img src="https://streak-stats.demolab.com?user=bhanukvv&theme=default" alt="bhanukvv" />
 </p>
-
+<br><br>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=bhanukvv" alt="bhanukvv" />
