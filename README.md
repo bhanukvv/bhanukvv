@@ -53,25 +53,22 @@
 </p>
 
 <br><br><br>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanukvv&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=bhanukvv&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=bhanukvv&theme=dark" alt="GitHub Streak" />
-    </td>
-    <td>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=bhanukvv&theme=dark" alt="GitHub Trophy" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanukvv&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+<br>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanukvv&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+<br>
+<p>
+  <img src="https://streak-stats.demolab.com?user=bhanukvv&theme=dark" alt="GitHub Streak" />
+</p>
+<br>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bhanukvv&theme=dark" alt="GitHub Trophy" />
+  </a> 
+</p>
 
 
