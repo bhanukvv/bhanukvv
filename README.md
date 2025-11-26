@@ -55,20 +55,20 @@
 <br><br><br>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanukvv&show_icons=true&locale=en&layout=compact" alt="bhanukvv" />
+ <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanukvv&show_icons=true&locale=en&layout=compact&theme=dark" alt="bhanukvv Top Languages" />
 </p>
 <br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanukvv&show_icons=true&locale=en" alt="bhanukvv" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanukvv&show_icons=true&locale=en&theme=dark" alt="bhanukvv GitHub Stats" />
 </p>
 <br>
 <p>
-  <img src="https://streak-stats.demolab.com?user=bhanukvv&theme=default" alt="bhanukvv" />
+  <img src="https://streak-stats.demolab.com?user=bhanukvv&theme=dark" alt="bhanukvv GitHub Streak" />
 </p>
 <br>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bhanukvv" alt="bhanukvv" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bhanukvv&theme=dark" alt="bhanukvv GitHub Trophy" />
   </a> 
 </p>
-
