@@ -67,8 +67,6 @@
 <br>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bhanukvv&theme=dark" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bhanukvv&theme=darkhub" alt="GitHub Trophy" />
   </a> 
 </p>
-
-
