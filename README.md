@@ -39,7 +39,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
@@ -51,15 +50,15 @@
 
 <br><br><br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanukvv&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukvv&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 <br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanukvv&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanukvv&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 <br>
 <p>
-  <img src="https://streak-stats.demolab.com?user=bhanukvv&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=bhanukvv&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <br>
 <p align="left"> 
