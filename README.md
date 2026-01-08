@@ -15,16 +15,13 @@
 ---
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bhanukvv&label=Profile%20views&color=0e75b6&style=flat" alt="bhanukvv" /> 
+  <img src="https://komarev.com/ghpvc/?username=bhanukvv&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" /> 
 </p>
-
 
 🔭 I’m currently working on improving my skills while learning and developing various projects  
 🌱 I’m currently learning AI engineering, database systems, and other exciting technologies  
 📫 How to reach me: **bhanukav10@gmail.com**  
 ⚡ Fun fact: I have a knack for multitasking  balancing studies, freelance work, and creative projects all at once  
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
