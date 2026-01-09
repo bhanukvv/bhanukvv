@@ -47,16 +47,6 @@
 
 
 <br><br><br>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukvv&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-<br>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanukvv&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-<br>
-<p>
-  <img src="https://streak-stats.demolab.com?user=bhanukvv&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+
 <br>
 
