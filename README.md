@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhanuka Viduranga</h1>
+
 
 <!-- Typing animation line -->
 <h3 align="center">
