@@ -19,9 +19,16 @@
 </p>
 
 <h4>
- -Crafting software with Java • Exploring AI • Learning Cloud • Building solutions that matter.
- -Committed to continuous learning, clean code, and making an impact through technology. 
+ Crafting software with Java • Exploring AI • Learning Cloud • Building solutions that matter. 
 </h4>
+
+<br>
+
+<h4>
+  Committed to continuous learning, clean code, and making an impact through technology.
+</h4>
+
+---
 
 
 <h3 align="left">Connect with me:</h3>
