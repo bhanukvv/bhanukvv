@@ -18,15 +18,13 @@
   <img src="https://komarev.com/ghpvc/?username=bhanukvv&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" /> 
 </p>
 
-🔭 I’m currently working on improving my skills while learning and developing various projects  
-🌱 I’m currently learning AI engineering, database systems, and other exciting technologies  
-📫 How to reach me: **bhanukav10@gmail.com**  
-⚡ Fun fact: I have a knack for multitasking  balancing studies, freelance work, and creative projects all at once  
+> Crafting software with Java • Exploring AI • Learning Cloud • Building solutions that matter.
+> Committed to continuous learning, clean code, and making an impact through technology. 
 
 <h3 align="left">Connect with me:</h3>
 <br>
 <p align="center">
-  <a href="https://linkedin.com/in/bhanuka viduranga" target="blank">
+  <a href="https://www.linkedin.com/in/bhanuka-viduranga-0662a7334/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanuka viduranga" height="30" width="40" />
   </a>
 </p>
