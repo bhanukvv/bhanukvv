@@ -18,11 +18,11 @@
   <img src="https://komarev.com/ghpvc/?username=bhanukvv&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" /> 
 </p>
 
+<br>
+
 <h4>
  Crafting software with Java • Exploring AI • Learning Cloud • Building solutions that matter. 
 </h4>
-
-<br>
 
 <h4>
   Committed to continuous learning, clean code, and making an impact through technology.
