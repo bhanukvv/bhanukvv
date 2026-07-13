@@ -1,6 +1,8 @@
-<h2 align="center">
+<h1 align="center">
   A passionate Full-Stack Developer from Sri Lanka 🇱🇰
-</h2>
+</h1>
+
+<br>
 
 <!-- Coding GIF -->
 <p align="center">
