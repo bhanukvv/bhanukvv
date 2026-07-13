@@ -1,5 +1,5 @@
 <h1 align="center">
-  A passionate Full-Stack Developer from Sri Lanka 🇱🇰
+  A passionate Full-Stack Developer from Sri Lanka 
 </h1>
 
 <br>
