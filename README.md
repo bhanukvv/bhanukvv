@@ -18,6 +18,10 @@
 <br>
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/bhanukavv.svg)](https://user-badge.committers.top/sri_lanka/bhanukavv)
 
+Crafting software with Java • Exploring AI • Learning Cloud • Building solutions that matter.
+
+Committed to continuous learning, clean code, and making an impact through technology.
+
 <h4>
  Crafting software with Java • Exploring AI • Learning Cloud • Building solutions that matter. 
 </h4>
