@@ -16,7 +16,7 @@
 </p>
 
 <br>
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/bhanukvv.svg)](https://user-badge.committers.top/sri_lanka/bhanukvv)
+
 
 Crafting software with Java • Exploring AI • Learning Cloud • Building solutions that matter.
 
