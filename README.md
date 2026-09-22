@@ -22,13 +22,7 @@ Crafting software with Java • Exploring AI • Learning Cloud • Building sol
 
 Committed to continuous learning, clean code, and making an impact through technology.
 
-<h4>
- Crafting software with Java • Exploring AI • Learning Cloud • Building solutions that matter. 
-</h4>
 
-<h4>
-  Committed to continuous learning, clean code, and making an impact through technology.
-</h4>
 
 <br>
 
